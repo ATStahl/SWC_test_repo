@@ -1,3 +1,2 @@
 This is the first line of my document.
 What happens when i add a second line?
-Now I'm adding a 3rd line for Exercise 2.
